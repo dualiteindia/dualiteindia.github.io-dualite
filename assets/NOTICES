@@ -5187,6 +5187,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 cross_file
 flutter_lints
 flutter_plugin_android_lifecycle
+go_router
 image_picker_for_web
 image_picker_platform_interface
 path_provider
@@ -5270,6 +5271,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 csslib
+logging
 
 Copyright 2013, the Dart project authors. 
 
